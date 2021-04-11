@@ -18,6 +18,7 @@ function hslToHex(h, s, l) {
 }
 
 function App() {
+	// https://dev.to/abachi/how-to-change-svg-s-color-in-react-42g2
 	const [time, setTime] = useState(0);
 	const [color, setColor] = useState('75 96 63');
 	const tickAnimation = () => {
