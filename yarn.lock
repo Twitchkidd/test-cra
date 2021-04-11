@@ -5092,6 +5092,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"d3-timer@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "d3-timer@npm:2.0.0"
+  checksum: 4e2ba2f02ec74bdb531c7cc974e59f51c2d7784331368b0af6b07f01f894c9de48d73b465280e6e54d9e85dca7c06de8f955764a312ce43caa8bfdf35db2917c
+  languageName: node
+  linkType: hard
+
 "d@npm:1, d@npm:^1.0.1":
   version: 1.0.1
   resolution: "d@npm:1.0.1"
@@ -13756,6 +13763,7 @@ resolve@1.18.1:
     "@testing-library/jest-dom": ^5.11.4
     "@testing-library/react": ^11.1.0
     "@testing-library/user-event": ^12.1.10
+    d3-timer: ^2.0.0
     react: ^17.0.1
     react-dom: ^17.0.1
     react-scripts: 4.0.1
